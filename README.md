@@ -1,10 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working at Cyber Security projects and Bug Bounty Hunting<br>💬 Ask me about Cyber Security, Web Application Security, Bug Bounty & Ethical Hacking<br>📫 How to reach me: Linkedin- ayan-ahmad-7b4913328<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I’m not hunting bugs, I’m probably gaming with friends 🎮
-🎯 Focused on **Web Application Security** 
-🛠️ Building open-source security tools for the community
-📚 Following OWASP Testing Guide (WSTG) methodologies
-🐍 Python developer | Security Automation Enthusiast
-
+🎯 Focused on **Web Application Security**<br>
+🛠️ Building open-source security tools for the community<br>
+📚 Following OWASP Testing Guide (WSTG) methodologies<br>
+🐍 Python developer | Security Automation Enthusiast<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayan-ahmad-7b4913328) 
