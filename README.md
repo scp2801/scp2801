@@ -1,5 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working at Cyber Security projects and Bug Bounty Hunting<br>💬 Ask me about Cyber Security, Web Application Security, Bug Bounty & Ethical Hacking<br>📫 How to reach me: Linkedin- ayan-ahmad-7b4913328<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I’m not hunting bugs, I’m probably gaming with friends 🎮
+- 🎯 Focused on **Web Application Security** 
+- 🛠️ Building open-source security tools for the community
+- 📚 Following OWASP Testing Guide (WSTG) methodologies
+- 🐍 Python developer | Security Automation Enthusiast
 
 
 ## 🌐 Socials:
@@ -11,12 +15,6 @@
 # 🛡️ Security Researcher & Tool Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/scp2801?style=social)](https://github.com/scp2801)
-
-## 🔐 About Me
-- 🎯 Focused on **Web Application Security** & **Bug Bounty**
-- 🛠️ Building open-source security tools for the community
-- 📚 Following OWASP Testing Guide (WSTG) methodologies
-- 🐍 Python developer | Security Automation Enthusiast
 
 ## ⚡ Featured Projects
 
@@ -40,7 +38,7 @@ Advanced reconnaissance, scanning and OSINT framework
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=scp2801&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📫 Connect
-- Portfolio: https://github.io/scp2801/portfolio/
+- Portfolio:  https://scp2801.github.io/portfolio/
 
 
 ## 🏆 GitHub Trophies
