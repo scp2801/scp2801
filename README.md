@@ -8,9 +8,40 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
+# 🛡️ Security Researcher & Tool Developer
+
+[![GitHub followers](https://img.shields.io/github/followers/scp2801?style=social)](https://github.com/scp2801)
+
+## 🔐 About Me
+- 🎯 Focused on **Web Application Security** & **Bug Bounty**
+- 🛠️ Building open-source security tools for the community
+- 📚 Following OWASP Testing Guide (WSTG) methodologies
+- 🐍 Python developer | Security Automation Enthusiast
+
+## ⚡ Featured Projects
+
+### 🔥 [OWASP WSTG Framework](https://github.com/scp2801/owaspwstg-framework)
+Advanced automation framework implementing OWASP WSTG for bug bounty hunters
+- Reconnaissance, Crawling, Vulnerability Scanning
+- Automated security assessment modules
+- Report generation & security analysis
+
+### 🔍 [ShadowRecon](https://github.com/scp2801/shadowrecon)
+Advanced reconnaissance, scanning and OSINT framework
+- Subdomain enumeration, Port scanning, OSINT gathering
+- Built for ethical hackers & penetration testers
+
+## 🧰 Tech Stack
+`Python` `OWASP` `Web Security` `Recon` `Vulnerability Scanning` `OSINT` `Docker` `TypeScript`
+
+## 📈 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=scp2801&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=scp2801&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=scp2801&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📫 Connect
+- Portfolio: https://github.io/scp2801/portfolio/
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=scp2801&theme=radical&no-frame=false&no-bg=true&margin-w=4)
